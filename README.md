@@ -107,7 +107,7 @@ Raspberry Pi | Arduino | Pixhawk Flight Controller
 - 🎓 Visvesvaraya Ph.D. Scholarship (Digital India Corporation)
 - 🎓 MHRD GATE Scholarship
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -115,7 +115,7 @@ Raspberry Pi | Arduino | Pixhawk Flight Controller
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
